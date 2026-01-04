@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# database lokal
+*.db
+
+# env / secrets
+.env
